@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1684456103 source:c:\users\usuario\desktop\c\tps programacion\guia6estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stAlumnos.h"
+
+1684456128 c:\users\usuario\desktop\c\tps programacion\guia6estructuras\stalumnos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
